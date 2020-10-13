@@ -1,0 +1,17 @@
+[
+  "TestTouchAction.py::TestTouchAction::test_touchaction_scrollbottom",
+  "test_alert.py::TestAlert::test_alert",
+  "test_cookies.py::TestCookie::test_wework",
+  "test_form.py::TestForm::test_form",
+  "test_form.py::TestForm::test_wework",
+  "test_frame.py::TestWindows::test_window",
+  "test_hogwarts.py::TestHogwarts::test_hogwarts",
+  "test_javascript.py::TestJS::test_datetime",
+  "test_javascript.py::TestJS::test_js",
+  "test_selenium.py::test_open_url",
+  "test_upload.py::TestFile::test_file_upload",
+  "test_xpath.py::Testxpath::test_dragdrop",
+  "test_xpath.py::Testxpath::test_keys",
+  "test_xpath.py::Testxpath::test_move_to_elem",
+  "test_xpath.py::Testxpath::test_open"
+]
