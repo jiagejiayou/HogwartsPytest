@@ -1,0 +1,6 @@
+[
+  "test_daka.py::TestDada::test_daka",
+  "test_daka.py::TestDada::test_add",
+  "test_daka.py::TestDada::test_delete",
+  "test_daka.py::TestDada::test_search"
+]

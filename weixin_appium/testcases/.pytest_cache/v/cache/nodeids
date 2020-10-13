@@ -1,0 +1,6 @@
+[
+  "test_addcontact.py::TestAddContact::test_addcontact",
+  "test_addcontact.py::TestAddContact::test_contact",
+  "test_workbench.py::TestWorkbench::test_daka",
+  "test_contact.py::TestContact::test_contactdel"
+]

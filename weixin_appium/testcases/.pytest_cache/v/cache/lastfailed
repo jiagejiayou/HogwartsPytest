@@ -1,0 +1,5 @@
+{
+  "test_addcontact.py::TestAddContact::test_addcontact": true,
+  "test_contact.py": true,
+  "test_workbench.py": true
+}
